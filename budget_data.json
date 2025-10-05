@@ -1,0 +1,5 @@
+[
+  {"date": "2025-01-01", "category": "Salary", "type": "Income", "amount": 5000, "description": "Monthly salary"},
+  {"date": "2025-01-03", "category": "Food", "type": "Expense", "amount": 200, "description": "Groceries"},
+  {"date": "2025-01-05", "category": "Transport", "type": "Expense", "amount": 100, "description": "Bus ticket"}
+]
